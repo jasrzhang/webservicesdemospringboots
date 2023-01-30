@@ -8,4 +8,7 @@ import java.util.List;
 @Service
 public interface DogService {
     public List<Dog> retrieveDogs();
+    List<String> retrieveDogBreed();
+    String retrieveDogBreedById(Long id);
+    List<String> retrieveDogNames();
 }
