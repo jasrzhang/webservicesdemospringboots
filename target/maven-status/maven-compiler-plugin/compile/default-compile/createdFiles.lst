@@ -1,1 +1,8 @@
+com\webservices\demo\config\SpringSecurityConfig.class
+com\webservices\demo\service\DogServiceImpl.class
+com\webservices\demo\entity\Dog.class
+com\webservices\demo\repository\DogRepository.class
+com\webservices\demo\service\DogService.class
+com\webservices\demo\web\DogController.class
 com\webservices\demo\DemoApplication.class
+com\webservices\demo\service\DogNotFoundException.class
